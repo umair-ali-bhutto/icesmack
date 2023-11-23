@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ice_cream_parlour.Models.tbl_feedback>
+
+@{
+    ViewBag.Title = "feedback";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">feedbacks</h2>
+<br>
+<br>
+<table class="table">
+
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Ice cream
+            </th>
+            <th>
+             Feedback
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.f_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.f_email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.f_icecream)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.f_feedBack)
+                </td>
+
+            </tr>
+        }
+
+
+    </table>
+<div class="text-center">
+    @Html.ActionLink("go back","Index","admin")
+</div>

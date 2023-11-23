@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "download";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="wow FadeInUp" data-wow-duration="1s">
+    <center >
+        <br>
+        <br>
+        <br>
+        <h2>You can download the recipe book from the given link</h2>
+        <br>
+        <br>
+        <br>
+        <br>
+        <a style="font-size:150%" href="~/recipe-book/CHOCALATE-CHIP-ICE-CREAM.docx" onclick="alert('thanks for downloading😊😊😊')" download="Recipes.docx">Download Now </a>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+    </center>
+</div>
+@Html.ActionLink("Go back","Index","Home")

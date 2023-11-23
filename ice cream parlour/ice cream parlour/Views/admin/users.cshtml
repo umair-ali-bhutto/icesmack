@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ice_cream_parlour.Models.tbl_user>
+
+@{
+    ViewBag.Title = "users";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@if (Session["aname"] != null)
+{
+    <h2 class="admin-login">Users</h2>
+}
+else
+{
+    Response.Redirect("~/admin/Admin");
+}
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+           Email
+        </th>
+        <th>
+           Password
+        </th>
+        <th>
+           Subscription
+        </th>
+        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.u_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.u_email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.u_pwd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.u_subs)
+            </td>
+            
+        </tr>
+    }
+
+</table>
+<div class="text-center">
+    @Html.ActionLink("go back", "Index", "admin")
+</div>

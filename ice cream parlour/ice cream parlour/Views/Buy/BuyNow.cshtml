@@ -1,0 +1,104 @@
+﻿@model ice_cream_parlour.Models.tbl_buy
+
+@{
+    ViewBag.Title = "BuyNow";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2 class="admin-login">Download Recipe Book</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-12"></div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+
+
+
+
+
+                <div class="form-horizontal">
+
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        <label class="control-label col-md-2">Name:</label>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.b_name, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                            @Html.ValidationMessageFor(model => model.b_name, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-2">Contact:</label>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.b_contact, new { htmlAttributes = new { @class = "form-control", required = "required", max = 5 } })
+                            <div>Please use only 11 digit number eg:03314657881</div>
+                            @Html.ValidationMessageFor(model => model.b_contact, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-2">Address:</label>
+
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.b_add, new { htmlAttributes = new { @class = "form-control" , required = "required" } })
+                            @Html.ValidationMessageFor(model => model.b_add, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-2">Cost:</label>
+
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.b_cost, new { htmlAttributes = new { @class = "form-control", @Value = "$100" } })
+                            @Html.ValidationMessageFor(model => model.b_cost, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-2">Payment method:</label>
+
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.b_paying, new { htmlAttributes = new { @class = "form-control", @Value = "Credit-card" } })
+                            @Html.ValidationMessageFor(model => model.b_paying, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+
+                            <input type="submit" value="Download" class="btn btn1" onclick="alert('Please Wait');"  />
+
+                        </div>
+                       
+                      
+
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-3 col-md-3 col-sm-12"></div>
+    
+}
+
+<div style="margin-left: 10.5%; margin-bottom: 20px; margin-top: 20px">
+    @Html.ActionLink("Back to List", "Index", "Home")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

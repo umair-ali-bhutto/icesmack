@@ -1,0 +1,62 @@
+﻿@model ice_cream_parlour.Models.tbl_product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="admin-login" style="margin-bottom: 100px">Details</h2>
+
+<div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
+                <dl class="dl-horizontal">
+                    <dt style="margin-bottom: 15px;">
+                       Name
+                    </dt>
+
+                    <dd style="margin-bottom: 30px;">
+                        @Html.DisplayFor(model => model.p_name)
+                    </dd>
+
+                    <dt style="margin-bottom: 15px;">
+                       Description
+                    </dt>
+
+                    <dd style="margin-bottom: 30px;">
+                        @Html.DisplayFor(model => model.p_desc)
+                    </dd>
+
+                </dl>
+
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <dl class="dl-horizontal">
+                    <dd class="text-center img-responsive">
+                        <img src="@Url.Content(Model.p_image)" class="img-circle" />
+                    </dd>
+
+
+                </dl>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+@if (Session["aname"] != null)
+{
+    <p style="margin-left: 7.5%; margin-bottom: 20px; margin-top: 20px">
+        @Html.ActionLink("Back to List", "Index", "admin")
+    </p>
+
+}
+else
+{
+    <p style="margin-left: 7.5%; margin-bottom: 20px; margin-top: 20px">
+        @Html.ActionLink("Back to List", "Recipes", "admin")
+    </p>
+}
+

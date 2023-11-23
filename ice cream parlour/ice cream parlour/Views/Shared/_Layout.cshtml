@@ -1,0 +1,221 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link rel="shortcut icon" href="~/Theme/images/favicon.png" type="image/x-icon">
+
+    <title>IceSmack</title>
+    @* Umair animation assets *@
+    <link href="~/Theme/assets/vendor/css/animated.css" rel="stylesheet" />
+    <link href="~/Theme/assets/vendor/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Theme/assets/vendor/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/Theme/assets/vendor/css/templatemo-seo-dream.css" rel="stylesheet" />
+
+
+
+
+    <!-- bootstrap core css -->
+    <link href="~/Theme/css/bootstrap.css" rel="stylesheet" />
+
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <!--owl slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <!-- nice select -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha256-mLBIhmBvigTFWPSCtvdu6a76T+3Xyt+K571hupeFLg4=" crossorigin="anonymous" />
+    <!-- font awesome style -->
+    <link href="~/Theme/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link href="~/Theme/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="~/Theme/css/responsive.css" rel="stylesheet" />
+    <style>
+        * {
+            scroll-behavior: smooth;
+        }
+        /* scroll bar */
+        body::-webkit-scrollbar {
+            width: 0.8em;
+        }
+
+        body::-webkit-scrollbar-track {
+            background: linear-gradient(grey,rgb(28, 28, 28));
+        }
+
+        body::-webkit-scrollbar-thumb {
+            background: rgb(226, 192, 224);
+            border-radius: 100vw;
+        }
+
+            body::-webkit-scrollbar-thumb:hover {
+                background: rgb(212, 177, 177);
+                border-radius: 100vw;
+                border: rgb(36, 36, 36) 0.2px solid;
+            }
+
+        li:hover a {
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+    <header class="header_section " style="background-color: #e18c9d">
+        <div class="container-fluid">
+            <div class="text-center">
+                <a data-tilt href="@Url.Action("Index", "Home")" class="navbar-brand">
+                    <img class="img-fluid mb-1" width="20%" alt="logo" src="@Url.Content("~/images/logo(icesmack).png")">
+                </a>
+            </div>
+            <nav class="navbar navbar-expand-lg custom_nav-container wow fadeInDown" data-wow-duration="3s">
+
+
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class=""> </span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                        <li>@Html.ActionLink("Recipes", "Recipes", "admin")</li>
+                        <li>@Html.ActionLink("Download Recipes", "BuyNow", "Buy")</li>
+                        <li>@Html.ActionLink("FeedBack", "Feedback", "Feedback")</li>
+
+                    </ul>
+                    @if (Session["uname"] != null)
+                    {
+                        <ul class="nav navbar-nav navbar-right">
+                            <li style="color:white">Hi, @Session["uname"].ToString()</li>
+                            <li>@Html.ActionLink("LogOut", "Logout", "User")</li>
+                        </ul>
+                    }
+                    else if (Session["aname"] != null)
+                    {
+                        <ul class="nav navbar-nav navbar-right">
+                            <li style="color:white">Hi, @Session["aname"].ToString()</li>
+                            <li>@Html.ActionLink("LogOut", "Logout", "User")</li>
+                        </ul>
+                    }
+                    else
+                    {
+                        <ul class="nav navbar-nav navbar-right">
+
+                            <li>@Html.ActionLink("Login", "Login", "User")</li>
+
+
+                            <li>@Html.ActionLink("SignUp", "SignUp", "User")</li>
+                        </ul>
+                    }
+
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!-- end header section -->
+
+    @RenderBody()
+
+    <div class="footer_container wow fadeInUp" data-wow-duration="2s" >
+        <div class="footer_bg_box">
+            <img src="~/Theme/images/footer_bg.jpg" alt="footer-image">
+        </div>
+        <!-- info section -->
+
+        <section class="info_section ">
+            <div class="info_container ">
+                <div class="container">
+                    <div class="info_contact ">
+
+                        <a href="tel:090078601" class="link-box">
+                            <i class="fa fa-phone" aria-hidden="true"></i>
+                            <span>
+                                Call +01 1234567890
+                            </span>
+                        </a>
+                        <a href="mailto:umair2101f@aptechgdn.net,mailto:raheem2102@aptechgdn.net,mailto:fawad2102f@aptechgdn.net,mailto:harsh2101f@aptechgdn.net" class="link-box">
+                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <span>
+                                Mail us
+                            </span>
+                        </a>
+                    </div>
+                    <div class="social_container">
+                        <div class="heading_container heading_center">
+                            <h2>
+                                Follow Us
+                            </h2>
+                            <p class="col-md-6 col-lg-5 mx-auto px-0">
+                                Aliquam, aut. Quam adipisci error nulla repellendus nihil asperiores, deserunt sed veritatis. Dolores magnam aperiam omnis! Architecto odit consectetur maxime consequatur ipsum.
+                            </p>
+                        </div>
+                        <div class="social-box">
+                            <a href="#">
+                                <i class="fa fa-facebook" aria-hidden="true"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-twitter" aria-hidden="true"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-instagram" aria-hidden="true"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fa fa-youtube" aria-hidden="true"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- end info section -->
+        <!-- footer section -->
+        <!-- footer section -->
+
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <!-- jQery -->
+    <script src="~/Theme/js/jquery-3.4.1.min.js"></script>
+    <!-- popper js -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <!-- bootstrap js -->
+    <script src="~/Theme/js/bootstrap.js"></script>
+    <!-- owl slider -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <!-- custom js -->
+    <script src="~/Theme/js/custom.js"></script>
+    <!-- Google Map -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
+    <!-- End Google Map -->
+
+
+    @* umair animation *@
+    <script src="~/Theme/assets/vendor/js/animation.js"></script>
+    <script src="~/Theme/assets/vendor/js/bootstrap.js"></script>
+    <script src="~/Theme/assets/vendor/js/jquery-1.12.4.min.js"></script>
+    <script src="~/Theme/assets/vendor/js/jquery.min.js"></script>
+    <script src="~/Theme/assets/vendor/js/main.js"></script>
+    <script src="~/Theme/assets/vendor/js/owl.carousel.js"></script>
+    <script src="~/Theme/assets/vendor/js/tilt.jquery.js"></script>
+    <script src="~/Theme/assets/vendor/js/wow.min.js"></script>
+
+
+
+</body>
+</html>

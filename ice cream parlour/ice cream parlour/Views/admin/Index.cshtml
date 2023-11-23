@@ -1,0 +1,90 @@
+﻿@model IEnumerable<ice_cream_parlour.Models.tbl_product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@if (Session["aname"] != null)
+{
+    <h2 class="admin-login">Recipes</h2>
+}
+else
+{
+    Response.Redirect("~/admin/Admin");
+}
+<p class="text-center" id="mya">
+    @Html.ActionLink("Post Recipe", "Create")
+</p>
+<br>
+<p class="text-center" id="mya">
+    @Html.ActionLink("Faq's for creating recipes", "faq", "Home")
+</p>
+<br>
+
+<style>
+    #mya a {
+        background-color: lightpink;
+        color: white;
+        border-radius: 10px;
+        padding: 8px;
+        transition: 0.3s;
+       
+    }
+
+        #mya a:hover {
+            background-color: hotpink;
+        }
+</style>
+
+<div class="container">
+    <div class="row">
+
+
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-4 col-md-4 col-sm-6 text-center">
+                <div class="card table-bordered" style="width: 18rem; margin-bottom: 10px; padding: 5px; margin-left: auto; margin-right: auto;">
+                    <img class="card-img-top " src="@Url.Content(item.p_image)" alt="Card image cap">
+                    <hr />
+                    <div class="card-body" id="mya">
+                        <h6 class="card-title">@Html.DisplayFor(modelItem => item.p_name)</h6>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.p_id }) |
+                        @Html.ActionLink("Recipe", "Details", new { id = item.p_id }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.p_id })
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+<div class="text-center " id="mya">
+    @Html.ActionLink("Feedbacks", "feedback", "admin")
+</div>
+<br>
+
+<div class="text-center " id="mya">
+    @Html.ActionLink("Users", "users", "admin")
+</div>
+<br>
+
+<div class="text-center " id="mya">
+    @Html.ActionLink("books", "bought", "admin")
+</div>
+<br>
+<br>

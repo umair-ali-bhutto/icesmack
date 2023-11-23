@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ice_cream_parlour.Models.tbl_buy>
+
+@{
+    ViewBag.Title = "bought";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@if (Session["aname"] != null)
+{
+    <h2 class="admin-login">Bought books details</h2>
+}
+else
+{
+    Response.Redirect("~/admin/Admin");
+}
+
+
+
+
+
+<table class="table">
+    <tr>
+        <th>
+           Name
+        </th>
+        <th>
+           Contact
+        </th>
+        <th>
+            Address
+        </th>
+        <th>
+            Cost
+        </th>
+        <th>
+            Payment method
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.b_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.b_contact)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.b_add)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.b_cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.b_paying)
+            </td>
+
+        </tr>
+    }
+
+</table>
+<div class="text-center">
+    @Html.ActionLink("go back", "Index", "admin")
+</div>

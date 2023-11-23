@@ -1,0 +1,268 @@
+﻿
+@{
+    ViewBag.Title = "faq";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<script>
+    document.getElementsByTagName("html")[0].className += " js";
+</script>
+
+<link href="~/Content/style.css" rel="stylesheet" />
+<style>
+    .cd-faq__category-selected::before {
+        background: pink;
+    }
+    #mya a {
+        background-color: lightpink;
+        color: white;
+        border-radius: 10px;
+        padding: 8px;
+        transition: 0.3s;
+    }
+
+        #mya a:hover {
+            background-color: hotpink;
+        }
+</style>
+
+
+
+
+
+<section class="cd-faq js-cd-faq container max-width-md margin-top-lg margin-bottom-lg">
+    <ul class="cd-faq__categories">
+        <li style="text-align:center"><a style="background-color: pink;font-size: x-large;" class="cd-faq__category truncate" href="#mobile">F.A.Q's</a></li>
+    </ul>
+
+
+    <div class="cd-faq__items">
+        <ul id="mobile" class="cd-faq__group">
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>How to add recipes?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p id="mya">
+                            To add recipes click me @Html.ActionLink("Add Recipe", "Create", "admin")
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger"
+                   href="#0">
+                    <!-- Question -->
+                    <span>Where can I purchase Icesmack ice cream?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p id="mya">
+                            go to @Html.ActionLink("Contact Us", "Contact", "Home")
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>Where can I purchase Icesmack gift cards?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p>
+                            Icesmack gift cards can be purchased online or from participating Icesmack locations. To find participating locations, please visit our store locator.
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>Why icesmack?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p>
+                            We provide best ice cream recipes.
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>Is Icesmack Good?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p>
+                            We provide best ice cream recipes.And We maintain our quality by using quality products
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>Are Animal Products Used in Icesmack recipes?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p>
+                            The only animal products are milk and eggs. The mono and diglycerides are derived from soy, not from an animal source.
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>Milk?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p>
+                            Milk found in all our ice cream is pasteurized and is not frozen until the ice cream is made in the shoppe.
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>Are there nuts in these recipes?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p>
+                            Our stores are not nut free. Our individual product pages identify products that are nut friendly.
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>If you like this?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p id="mya">
+                            🙏🙏 Please Give us feedback ❤❤❤❤
+                           
+                            @Html.ActionLink("Feedback", "Feedback", "Feedback")
+
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+
+
+
+
+            <li class="cd-faq__item">
+                <a style="background-color: pink;color: white;font-family: serif;font-size: larger;" class="cd-faq__trigger" href="#0">
+                    <!-- Question -->
+                    <span>Should i quit?</span>
+                    <!-- Question -->
+                </a>
+                <div class="cd-faq__content">
+                    <div class="text-component">
+                        <!-- Answer -->
+                        <p>
+                            NO 🤞
+                        </p>
+                        <!-- Answer -->
+                    </div>
+                </div>
+            </li>
+
+        </ul>
+    </div>
+
+
+    <a href="#0" style="color: black;" class="cd-faq__close-panel text-replace">Close</a>
+    <div style="color: black;" class="cd-faq__overlay" aria-hidden="true"></div>
+</section>
+
+
+<script src="~/Scripts/util.js"></script>
+
+<script src="~/Scripts/main.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

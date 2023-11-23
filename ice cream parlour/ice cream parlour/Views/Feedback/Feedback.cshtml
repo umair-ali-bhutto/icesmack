@@ -1,0 +1,72 @@
+﻿@model ice_cream_parlour.Models.tbl_feedback
+
+@{
+    ViewBag.Title = "Feedback";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="admin-login">Feedback</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-12"></div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="form-horizontal wow FadeInUp" data-wow-duration="1s">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        <label class="control-label col-md-6">Name:</label>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.f_name, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                            @Html.ValidationMessageFor(model => model.f_name, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-6">Email:</label>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.f_email, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                            @Html.ValidationMessageFor(model => model.f_email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-6">Ice cream:</label>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.f_icecream, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                            @Html.ValidationMessageFor(model => model.f_icecream, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="control-label col-md-6">Feedback:</label>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.f_feedBack, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                            @Html.ValidationMessageFor(model => model.f_feedBack, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Submit" class="btn btn1" onclick="alert('Thanks for clicking the Feedback button ❤❤❤👍')" />
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12"></div>
+        </div>
+</div>
+
+
+        }
+
+    
+
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+        }

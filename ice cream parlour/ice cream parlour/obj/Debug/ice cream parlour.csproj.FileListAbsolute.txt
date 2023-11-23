@@ -1,0 +1,415 @@
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll.config
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.pdb
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe.config
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.rsp
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe.config
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.rsp
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.AppContext.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Console.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Http.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.ValueTuple.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe.config
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.rsp
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Razor.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\WebGrease.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Razor.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.pdb
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CoreCompileInputs.cache
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CopyComplete
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.dll
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.pdb
+C:\Users\NG TECH\Desktop\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.AssemblyReference.cache
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll.config
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.pdb
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe.config
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.rsp
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe.config
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.rsp
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.AppContext.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Console.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Http.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.ValueTuple.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe.config
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.rsp
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Razor.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\WebGrease.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Razor.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.pdb
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.AssemblyReference.cache
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CoreCompileInputs.cache
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CopyComplete
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.dll
+C:\Users\NG TECH\Desktop\demo\New folder\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.pdb
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll.config
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\ice cream parlour.pdb
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe.config
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csc.rsp
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe.config
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\csi.rsp
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.AppContext.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Collections.Immutable.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Console.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Globalization.Calendars.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Http.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Sockets.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Reflection.Metadata.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.ValueTuple.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe.config
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\vbc.rsp
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe.config
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.Web.Infrastructure.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Razor.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\WebGrease.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.Razor.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.pdb
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.AssemblyReference.cache
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CoreCompileInputs.cache
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CopyComplete
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.dll
+E:\aptech\eproject\eproject\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.pdb
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll.config
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\ice cream parlour.pdb
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe.config
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csc.rsp
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe.config
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csi.rsp
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.AppContext.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Collections.Immutable.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Console.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Globalization.Calendars.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Http.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Sockets.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Reflection.Metadata.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.ValueTuple.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe.config
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\vbc.rsp
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe.config
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\EntityFramework.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\Microsoft.Web.Infrastructure.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Razor.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\WebGrease.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\EntityFramework.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Razor.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.pdb
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.AssemblyReference.cache
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CoreCompileInputs.cache
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CopyComplete
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.dll
+E:\aptech\E-Projects\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.pdb
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll.config
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\ice cream parlour.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\ice cream parlour.pdb
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csc.exe.config
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csc.rsp
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csi.exe.config
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\csi.rsp
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Managed.Core.targets
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.AppContext.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Collections.Immutable.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Console.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Globalization.Calendars.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Http.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Net.Sockets.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Reflection.Metadata.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.ValueTuple.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XmlDocument.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\vbc.exe.config
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\vbc.rsp
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\roslyn\VBCSCompiler.exe.config
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\EntityFramework.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\Microsoft.Web.Infrastructure.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Razor.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\WebGrease.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\EntityFramework.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\EntityFramework.SqlServer.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Helpers.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Mvc.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Optimization.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.Razor.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Deployment.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\System.Web.WebPages.Razor.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\Newtonsoft.Json.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\Antlr3.Runtime.pdb
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.AssemblyReference.cache
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CoreCompileInputs.cache
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.csproj.CopyComplete
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.dll
+E:\aptech\E-project#2\ice cream parlour\ice cream parlour\obj\Debug\ice cream parlour.pdb

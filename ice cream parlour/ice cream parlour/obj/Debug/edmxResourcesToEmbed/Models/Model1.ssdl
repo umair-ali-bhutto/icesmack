@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="icecrmModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'icecrm.dbo.tbl_admin' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tbl_admin">
+    <Key>
+      <PropertyRef Name="adm_name" />
+      <PropertyRef Name="adm_pwd" />
+    </Key>
+    <Property Name="adm_name" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="adm_pwd" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_buy">
+    <Key>
+      <PropertyRef Name="buy_id" />
+    </Key>
+    <Property Name="buy_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="b_name" Type="varchar" MaxLength="36" Nullable="false" />
+    <Property Name="b_contact" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="b_add" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="b_cost" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="b_paying" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_feedback">
+    <Key>
+      <PropertyRef Name="f_id" />
+    </Key>
+    <Property Name="f_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="f_name" Type="varchar" MaxLength="36" Nullable="false" />
+    <Property Name="f_email" Type="varchar" MaxLength="128" Nullable="false" />
+    <Property Name="f_icecream" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="f_feedBack" Type="varchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_product">
+    <Key>
+      <PropertyRef Name="p_id" />
+    </Key>
+    <Property Name="p_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="p_name" Type="varchar" MaxLength="36" Nullable="false" />
+    <Property Name="p_image" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="p_desc" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_user">
+    <Key>
+      <PropertyRef Name="u_id" />
+    </Key>
+    <Property Name="u_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="u_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="u_email" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="u_pwd" Type="varchar" MaxLength="16" Nullable="false" />
+    <Property Name="u_subs" Type="varchar" MaxLength="16" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="icecrmModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_buy" EntityType="Self.tbl_buy" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_feedback" EntityType="Self.tbl_feedback" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_product" EntityType="Self.tbl_product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_user" EntityType="Self.tbl_user" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_admin" EntityType="Self.tbl_admin" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tbl_admin].[adm_name] AS [adm_name], 
+    [tbl_admin].[adm_pwd] AS [adm_pwd]
+    FROM [dbo].[tbl_admin] AS [tbl_admin]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

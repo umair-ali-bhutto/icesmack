@@ -1,0 +1,123 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="hero_area" >
+    <div class="hero_bg_box">
+        <img src="~/Theme/images/hero-bg.jpg" alt="">
+    </div>
+    <section class="slider_section " >
+        <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="container ">
+                        <div class="row">
+                            <div class="col-md-6 col-lg-5 ml-auto">
+                                <div class="detail-box">
+                                    <h1>
+                                        Welcome to <br>
+                                        Ice Smack
+                                    </h1>
+                                    <p>
+                                        This is Icesmack he best place to get free recipes of your favourite savoury ice creams that you can find in the recipes tab, So enjoy 💖💖💖
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="container ">
+                        <div class="row">
+                            <div class="col-md-6 col-lg-5 ml-auto">
+                                <div class="detail-box">
+                                    <h1>
+                                        Welcome to our <br>
+                                        Ice Cream Parlour
+                                    </h1>
+                                    <p>
+                                        Our recipes are the best of the best we have all of your favourite savoury ice cream falvors that you can find in the recipes tab enjoy 💖
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="container ">
+                        <div class="row">
+                            <div class="col-md-6 col-lg-5 ml-auto">
+                                <div class="detail-box">
+                                    <h1>
+                                        Download The<br>
+                                        Recipes
+                                    </h1>
+                                    <p>
+                                        @Html.ActionLink("Download Recipes","BuyNow","Buy")
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+<!-- about section -->
+
+<section class="about_section layout_padding" >
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 wow ">
+                <div class="img-box pr-md-3">
+                    <img src="~/Theme/images/about-img2.png" class="box_img" alt="about img">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="detail-box pl-md-3">
+                    <div class="heading_container">
+                        <h2 class="">
+                            About Us
+                        </h2>
+                    </div>
+                    <p class="detail_p_mt">
+                        There are many variation of projects out there but this , this is what you need not those pricy stores we have all the recipes for free ready  to be read so are you prepared to dive into  the river of savory flavors of the best ice cream recipes ready to be made by you. 
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- about section ends -->
+<!-- about section -->
+
+<section class="about_section about_section2 layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 ">
+                <div class="detail-box pr-md-3">
+                    <div class="heading_container">
+                        <h2 class="">
+                            Have A Great Treat
+                        </h2>
+                    </div>
+                    <p class="detail_p_mt">
+                       We provide the best homemade recipes you can prepare at home with ease. Have a party you can buy our product ready made from our store for more information you can visit our page for contact us @Html.ActionLink("Contact Us","Contact","Home")
+                        Dont forget to thank us and give your beautifull feedback on @Html.ActionLink("Feedback for us","Feedback","Feedback")
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 ">
+                <div class="img-box pl-md-3">
+                    <img src="~/Theme/images/about-img3.png" class="box_img" alt="about img">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- about section ends -->

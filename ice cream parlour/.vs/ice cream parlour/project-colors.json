@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e581a874-5234-45df-b1e5-8d9db83be971": {
+      "ProjectGuid": "e581a874-5234-45df-b1e5-8d9db83be971",
+      "DisplayName": "ice cream parlour",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
